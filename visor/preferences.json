@@ -1,0 +1,60 @@
+{
+  "table": {
+    "isActive": false,
+    "rowsLimit": 5
+  },
+  "charts": {
+    "isActive": true
+  },
+  "metaTags": {
+    "title": "",
+    "description": "",
+    "image": ""
+  },
+  "analytics_ids": [],
+  "excluded_plugins": ["minimap"],
+  "mapConfig": {
+    "center": {
+      "latitude": -32.4135,
+      "longitude": -63.2481
+    },
+    "zoom": {
+      "initial": 12,
+      "min": 3,
+      "max": 21
+    }
+  },
+  "showSearchBar": false,
+  "referencias": {
+    "show": true,
+    "icon": "src/config/styles/images/referencias.png",
+    "width":"25px",
+    "height":"31px"
+  },
+  "theme": {
+    "bodyBackground": "#14A2DB",
+    "headerBackground": "#14A2DB",
+    "menuBackground": "#2AB99E",
+    "activeLayer": "#606062",
+    "textMenu":"white",
+    "textMenuStyle":"",
+    "textLegendMenu":"#dddddd",
+    "textLegendMenuStyle":"",
+    "iconBar":"#4f4f4f"
+    },
+  "logo": {
+    "title":"Municipio de Villa María",
+    "src": "src/config/styles/images/logo_villa_maria.svg",
+    "height": "110px",
+    "width": "",
+    "style": "",
+    "srcLogoMini": "src/config/styles/images/logo_villa_maria.svg",
+    "miniHeight": "110px",
+    "miniWidth": "",
+    "ministyle": ""
+  },
+  "title": "Visor Mapas Villa María",
+  "website": "https://www.villamaria.gob.ar/",
+  "favicon": "https://www.ign.gob.ar/sites/default/files/favicon.png"
+}
+
