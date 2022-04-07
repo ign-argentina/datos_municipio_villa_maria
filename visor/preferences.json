@@ -32,13 +32,13 @@
     "height":"31px"
   },
   "theme": {
-    "bodyBackground": "#14A2DB",
-    "headerBackground": "#14A2DB",
-    "menuBackground": "#2AB99E",
-    "activeLayer": "#606062",
+    "bodyBackground": "#C7D533",
+    "headerBackground": "#fafafa",
+    "menuBackground": "#91C256",
+    "activeLayer": "#C7D533",
     "textMenu":"white",
     "textMenuStyle":"",
-    "textLegendMenu":"#dddddd",
+    "textLegendMenu":"black",
     "textLegendMenuStyle":"",
     "iconBar":"#4f4f4f"
     },
