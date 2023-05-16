@@ -205,7 +205,6 @@
       "type": "wmts",
       "peso": 130,
       "nombre": "Fotogrametría",
-      "short_abstract": "Relevamientos fotogramétricos, ortomosaicos, etc.",
       "class": "",
       "seccion": "fotogrametria",
       "servicio": "wmts",
