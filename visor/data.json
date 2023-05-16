@@ -200,6 +200,17 @@
       "servicio": "wms",
       "version": "1.3.0",
       "host": "https://villamaria.ign.gob.ar/geoserver/catastro_municipal"
+    },
+    {
+      "type": "wmts",
+      "peso": 130,
+      "nombre": "Fotogrametría",
+      "short_abstract": "Relevamientos fotogramétricos, ortomosaicos, etc.",
+      "class": "",
+      "seccion": "fotogrametria",
+      "servicio": "wmts",
+      "version": "1.0.0",
+      "host": "https://imagenes.ign.gob.ar/geoserver/mosaicos_vuelos_vant"
     }
   ],
   "template": "argenmap-leaflet-muni-tpl-villamaria"
